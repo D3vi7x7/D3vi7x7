@@ -1,0 +1,60 @@
+{
+  "name": "Devi Prasad Sundaray",
+  "tagline": "I make designs people remember \u2014 and build the systems behind them.",
+  "brand": {
+    "bg": "#101010",
+    "panel": "#181818",
+    "text": "#F5F2EA",
+    "muted": "#A5A29B",
+    "accent": "#D8FF3E",
+    "line": "#343434",
+    "heat": [
+      "#202020",
+      "#42501F",
+      "#718B2B",
+      "#A9D936",
+      "#D8FF3E"
+    ]
+  },
+  "fonts": {
+    "display": "Arial",
+    "body": "Arial",
+    "mono": "Courier New",
+    "files": []
+  },
+  "portrait": "",
+  "tiles": [
+    {
+      "title": "DEVELOPMENT",
+      "subtitle": "Systems & software",
+      "symbol": "{ }",
+      "href": "https://github.com/D3vi7x7"
+    },
+    {
+      "title": "DESIGN",
+      "subtitle": "Visuals & experiences",
+      "symbol": "\u2733",
+      "href": "https://devi-portfolio-rho.vercel.app/"
+    },
+    {
+      "title": "3D & REALTIME",
+      "subtitle": "Unreal \u00b7 Blender \u00b7 GPU",
+      "symbol": "\u25c8",
+      "href": "https://github.com/D3vi7x7"
+    }
+  ],
+  "featured_repos": [
+    {
+      "name": "MultiplayerSessions Plugin",
+      "description": "A delegate-driven Unreal Engine session system for creating, finding and joining multiplayer sessions.",
+      "language": "C++",
+      "url": "https://github.com/D3vi7x7/MultiplayerPlugin"
+    },
+    {
+      "name": "More projects",
+      "description": "Explore my software, graphics and creative technology experiments.",
+      "language": "OPEN SOURCE",
+      "url": "https://github.com/D3vi7x7"
+    }
+  ]
+}
