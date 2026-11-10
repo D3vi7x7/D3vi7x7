@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Devi Prasad Sundaray, a B.Tech final year student in Computer Science and Engineering.
+I'm Devi Prasad Sundaray, a software developer and creative technologist passionate about building meaningful digital experiences. I work across frontend and backend development, exploring technologies like React, Next.js, Rust, Python, and FastAPI to create scalable applications and efficient systems. With a background in graphic design, I bring a strong focus on visual storytelling, UI/UX, and thoughtful interaction design. I'm also fascinated by real-time graphics, Unreal Engine, GPU programming, and 3D technologies. I enjoy experimenting with emerging tools, solving complex problems, and turning ambitious ideas into practical products. Always learning, building, and exploring what's possible through technology.
 
 
 ## 🌐 Socials:
