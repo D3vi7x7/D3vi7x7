@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center"><img src="cards/hero.svg" width="100%" alt="Devi Prasad Sundaray — creative developer"/></p>
 
-<!--
-**D3vi7x7/D3vi7x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/D3vi7x7"><img src="cards/tile-1.svg" width="32.5%" alt="Development"/></a>
+  <a href="https://devi-portfolio-rho.vercel.app/"><img src="cards/tile-2.svg" width="32.5%" alt="Design"/></a>
+  <a href="https://github.com/D3vi7x7"><img src="cards/tile-3.svg" width="32.5%" alt="3D and realtime"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><img src="cards/activity.svg" width="100%" alt="Monthly contribution activity, streak, active days and busiest day"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/D3vi7x7/MultiplayerPlugin"><img src="cards/repo-1.svg" width="100%" alt="MultiplayerSessions Plugin"/></a>
+  <a href="https://github.com/D3vi7x7"><img src="cards/repo-2.svg" width="100%" alt="More projects"/></a>
+</p>
+
+<p align="center"><img src="cards/contributions.svg" width="100%" alt="GitHub contribution graph"/></p>
